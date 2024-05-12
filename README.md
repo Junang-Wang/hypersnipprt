@@ -1,3 +1,3 @@
-# hypersnipprt
+# hypersnips
 
-My hypersnippet files
+My hypersnips files
